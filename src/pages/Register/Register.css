@@ -1,0 +1,21 @@
+.register-container {
+  margin-top: 3em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  /* background-color: #22222238; */
+  height: 80vh;
+  margin-inline: 160px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+}
+.register-input {
+  padding: 10px;
+  width: 300px;
+}
+.register-button {
+  margin: 3em;
+  width: 240px;
+}

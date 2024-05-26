@@ -1,0 +1,25 @@
+.profile-container {
+  width: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.banner {
+  background-color: #8095cf3a;
+  height: 100vh;
+  width: 25%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pagination-info {
+  background-color: rgb(255, 255, 255);
+  height: 100vh;
+  width: 75%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
